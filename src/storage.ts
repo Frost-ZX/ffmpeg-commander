@@ -1,6 +1,6 @@
-interface IItem {
-  [key: string]: string;
-}
+// interface IItem {
+//   [key: string]: string;
+// }
 
 interface IQueueItem {
   id: number;
